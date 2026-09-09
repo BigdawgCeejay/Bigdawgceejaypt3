@@ -15,3 +15,16 @@ i'm currently working on the Medline Operations Problem Navigator.
 **My Goal this cycle:** i want to blossom during the next 12 weeks
 
 **Reach me @** [ My Gmail account](mailto:cjdaniels1990@hotmail.com)
+
+<details>
+  
+<summary>Marvel Rivals champion</summary>
+
+</ul>
+
+<li>Daredevil</li
+<li>captain america</li>
+<li>spiderman</li>
+<li>ultron</li>
+
+</details>
