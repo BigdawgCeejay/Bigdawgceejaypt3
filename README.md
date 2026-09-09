@@ -23,8 +23,8 @@ i'm currently working on the Medline Operations Problem Navigator.
 </ul>
 
 <li>Daredevil</li
-<li>captain america</li>
-<li>spiderman</li>
-<li>ultron</li>
+<li>Captain America</li>
+<li>Spiderman</li>
+<li>Ultron</li>
 
 </details>
